@@ -2,6 +2,6 @@
   "name": "HaraToken",
   "symbol": "HART",
   "description": "Hara Token in Solana",
-  "image": "test",
+  "image": "https://raw.githubusercontent.com/haratoken/hart-metadata/refs/heads/main/hara.jpg",
   "external_url": "haratoken.io"
 }
