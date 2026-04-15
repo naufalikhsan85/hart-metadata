@@ -1,7 +1,7 @@
 {
-  "name": "HaraToken",
+  "name": "HARA Token",
   "symbol": "HART",
-  "description": "Hara Token in Solana",
-  "image": "https://raw.githubusercontent.com/haratoken/hart-metadata/refs/heads/main/hara.jpg",
+  "description": "HART is the economic security asset of the protocol. It is used for staking, governance, credential bonding, slashing, and selected protocol-usage flows. HART is the mechanism that makes trusted roles expensive to abuse.",
+  "image": "https://raw.githubusercontent.com/haratoken/hart-metadata/refs/heads/main/hara.png",
   "external_url": "haratoken.io"
 }
